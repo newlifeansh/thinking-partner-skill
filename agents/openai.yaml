@@ -1,0 +1,4 @@
+interface:
+  display_name: "사고 파트너"
+  short_description: "복잡한 고민을 질문과 구조화로 함께 탐색"
+  default_prompt: "Use $thinking-partner to help me think through this decision."
